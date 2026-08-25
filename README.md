@@ -63,7 +63,5 @@ longer depends on YData Profiling.
 This feature downloads Hugging Face models and uses a hosted language model.
 Create `.env`, then add your own token
 
-Never commit the token. If this repository previously contained one, revoke and rotate it immediately in Hugging Face.
-
 
 
