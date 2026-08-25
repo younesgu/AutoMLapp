@@ -61,15 +61,7 @@ longer depends on YData Profiling.
 ## PDF question answering
 
 This feature downloads Hugging Face models and uses a hosted language model.
-Copy `.env.example` to `.env`, then add your own token:
-
-```bash
-# Windows PowerShell
-Copy-Item .env.example .env
-
-# macOS / Linux
-cp .env.example .env
-```
+Create `.env`, then add your own token
 
 Never commit the token. If this repository previously contained one, revoke and rotate it immediately in Hugging Face.
 
