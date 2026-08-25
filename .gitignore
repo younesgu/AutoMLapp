@@ -1,0 +1,18 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Runtime files
+dataset.csv
+uploaded_file.pdf
+best_model.pkl
+document_vector_db.parquet
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
