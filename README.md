@@ -30,7 +30,7 @@ Generated files such as uploaded datasets, models and PDFs are excluded from Git
 Python 3.10 or 3.11 is recommended.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/younesgu/AutoMLapp.git
 cd AutoMLapp
 py -3.11 -m venv .venv
 ```
